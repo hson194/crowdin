@@ -17,18 +17,18 @@
         },
         "cardFeatureSections": [
             {
-                "title": "Requirements",
-                "content": "<div class=\"text-[15px] text-darkgrey font-medium mt-4\">Swipe your CIMB Petronas Platinum Credit Card using Setel App at all PETRONAS stations nationwide to enjoy 7% cashback, subject to a statement balance of RM1,500 and above. For other retail spending, get 0.2% unlimited cash rebates.</div>\n<div class=\"text-[15px] text-mediumgrey mt-2\">Card cashback rate:</div>\n<div class=\"relative border bg-[#F3F6FA] rounded-lg overflow-hidden mt-4 mb-7\">\n<table class=\"table-fixed w-full border-collapse\">\n<thead class=\"text-lightgrey text-[15px] border-b\">\n<tr>\n<th class=\"pl-5 py-3 font-normal text-left w-32 align-bottom\" scope=\"col\">If statement balance</th>\n<th class=\"px-2 py-3 font-normal text-left w-24 align-bottom\" scope=\"col\">Cashback rate</th>\n<th class=\"pr-5 py-3 font-normal text-right align-bottom\" scope=\"col\">Cap per month at</th>\n</tr>\n</thead>\n<tbody class=\"bg-white\">\n<tr class=\"border-b border-offwhite\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">from RM1,500 up to</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">7%</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">RM30</td>\n</tr>\n<tr class=\"border-b border-offwhite\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">from RM1,500 up to</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">5%</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">RM30</td>\n</tr>\n<tr class=\"border-b border-offwhite\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">up to RM1,500</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">3%</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">RM30</td>\n</tr>\n<tr class=\"false\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">any amount</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">0.2%</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">uncapped</td>\n</tr>\n</tbody>\n</table>\n</div>"
+                "title": "Yêu cầu",
+                "content": "<div class=\"text-[15px] text-darkgrey font-medium mt-4\">Xin chào mọi người</div>\n<div class=\"text-[15px] text-mediumgrey mt-2\">Card cashback rate:</div>\n<div class=\"relative border bg-[#F3F6FA] rounded-lg overflow-hidden mt-4 mb-7\">\n<table class=\"table-fixed w-full border-collapse\">\n<thead class=\"text-lightgrey text-[15px] border-b\">\n<tr>\n<th class=\"pl-5 py-3 font-normal text-left w-32 align-bottom\" scope=\"col\">If statement balance</th>\n<th class=\"px-2 py-3 font-normal text-left w-24 align-bottom\" scope=\"col\">Cashback rate</th>\n<th class=\"pr-5 py-3 font-normal text-right align-bottom\" scope=\"col\">Cap per month at</th>\n</tr>\n</thead>\n<tbody class=\"bg-white\">\n<tr class=\"border-b border-offwhite\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">from RM1,500 up to</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">7%</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">RM30</td>\n</tr>\n<tr class=\"border-b border-offwhite\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">from RM1,500 up to</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">5%</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">RM30</td>\n</tr>\n<tr class=\"border-b border-offwhite\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">up to RM1,500</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">3%</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">RM30</td>\n</tr>\n<tr class=\"false\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">any amount</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">0.2%</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">uncapped</td>\n</tr>\n</tbody>\n</table>\n</div>"
             },
             {
-                "title": "Balance Transfer",
-                "content": "<div class=\"text-[15px] text-darkgrey mt-6\">Transfer outstanding balances from other credit cards to PETRONAS Maybank Visa Platinum at interest rates as low as 0% with payment period of up to 36 months.</div>\n<div class=\"relative border bg-[#F3F6FA] rounded-lg overflow-hidden mt-5 mb-8\">\n<table class=\"table-fixed w-full border-collapse\">\n<thead class=\"text-lightgrey text-[15px] border-b\">\n<tr>\n<th class=\"pl-5 py-3 font-normal text-left w-[100px] align-bottom\" scope=\"col\">Pay over</th>\n<th class=\"px-2 py-3 font-normal text-left w-[110px] align-bottom\" scope=\"col\">With interest rate at</th>\n<th class=\"pr-5 py-3 font-normal text-right align-bottom\" scope=\"col\">When you transfer</th>\n</tr>\n</thead>\n<tbody class=\"bg-white\">\n<tr class=\"border-b border-offwhite\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">6 months</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">5.99% p.a. and no one-time upfront handling fee</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">from RM1,000</td>\n</tr>\n<tr class=\"false\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">12 months</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">7.99% p.a. and no one-time upfront handling fee</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">from RM1,000</td>\n</tr>\n</tbody>\n</table>\n</div>"
+                "title": "Phí giao dịch",
+                "content": "<div class=\"text-[15px] text-darkgrey mt-6\">Chuyển dư nợ từ các thẻ tín dụng khác sang PETRONAS Maybank Visa Platinum với lãi suất thấp tới 0% với thời gian thanh toán lên tới 36 tháng.</div>\n<div class=\"relative border bg-[#F3F6FA] rounded-lg overflow-hidden mt-5 mb-8\">\n<table class=\"table-fixed w-full border-collapse\">\n<thead class=\"text-lightgrey text-[15px] border-b\">\n<tr>\n<th class=\"pl-5 py-3 font-normal text-left w-[100px] align-bottom\" scope=\"col\">Thanh toán qua</th>\n<th class=\"px-2 py-3 font-normal text-left w-[110px] align-bottom\" scope=\"col\">With interest rate at</th>\n<th class=\"pr-5 py-3 font-normal text-right align-bottom\" scope=\"col\">When you transfer</th>\n</tr>\n</thead>\n<tbody class=\"bg-white\">\n<tr class=\"border-b border-offwhite\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">6 months</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">5.99% p.a. and no one-time upfront handling fee</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">from RM1,000</td>\n</tr>\n<tr class=\"false\">\n<td class=\"pl-5 py-3 text-darkgrey text-[15px] align-top\">12 months</td>\n<td class=\"px-2 py-3 text-darkgrey text-[15px] align-top\">7.99% p.a. and no one-time upfront handling fee</td>\n<td class=\"py-3 pr-5 text-darkgrey text-[15px] text-right align-top\">from RM1,000</td>\n</tr>\n</tbody>\n</table>\n</div>"
             }
         ],
         "cardFeatures": [
             {
-                "name": "Easy payment plans",
-                "icon": "FUEL",
+                "name": "Kế hoạch thanh toán dễ dàng",
+                "icon": "XĂNG",
                 "contents": [
                     {
                         "title": "Public Bank Flexipay Plan",
@@ -38,7 +38,7 @@
             },
             {
                 "name": "Auto deals",
-                "icon": "AUTOS",
+                "icon": "TỰ ĐỘNG",
                 "contents": [
                     {
                         "description": "Get up to 40% discount at Cars International auto spa outlets"
@@ -46,7 +46,7 @@
                 ]
             },
             {
-                "name": "Balance Transfer",
+                "name": "Phí giao dịch",
                 "icon": "RETAIL",
                 "contents": [
                     {
