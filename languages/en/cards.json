@@ -1,5 +1,6 @@
 {
     "635b3f0a6b56db2cc4487bb8": {
+        "testCrowdin":"Test case: add new info after the Crowdin create new branch (localize_main), Expect: dictionary files are synced (all languages)",
         "_id": "635b3f0a6b56db2cc4487bb8",
         "externalId": "Alliance001",
         "name": "Alliance Bank Visa Signature Credit Card",
